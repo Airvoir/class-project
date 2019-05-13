@@ -17,6 +17,7 @@ public class empleado
     {
         // initialise instance variables
         x = 0;
+	y=3;
     }
 
     /**
